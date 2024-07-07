@@ -1,13 +1,12 @@
 <h1>🙋🏼‍♂️ Olá, me chamo Leonardo.</h1>
 
-<h2>💥Seja bem vindo(a) ao meu perfil. Tenho 20 anos, sou estudante de Ciência da Computação e futuro desenvolvedor web front-end.</h2>
+<h2>💥Seja bem vindo(a) ao meu perfil. Tenho 23 anos, sou formado em Ciências da Computação e estou cursando pós-graduação em Arquitetura de Software.</h2>
 
-- 📖 Atualmente, continuo nos meus estudos de HTML, CSS e JavaScript para poder me aperfeiçoar cada vez mais e dar início ao estudo do framework React.js.
+- 📖 Atualmente trabalho com desenvolvimento mobile no V-Thru, realizando melhorias de código, integrações com BE e implementação de novos recursos.
 
-- 📝 Tenho conhecimento em back-end nas linguagens Java e SQL para banco de dados, procuro me aprofundar mais futuramente.
+- 📝 Tenho conhecimento principalmente em Javascript, React.js, React-native, Typrescript, Firebase, Git, Gitlab, Clean Code e Agile Development.
 
-- 🧐 Também sou conhecedor de, além das linguagens citadas, GitHub e Git para versionamento de códigos, e aplicações que contribuem na criação de wireframes 
-e desenvolvimento, como: Adobe XD e Figma. <br> <br>
+- 🧐 Também sou conhecedor de, além das linguagens citadas, Node.js, Express, Figma, UX e UI. <br> <br>
 
 
 
