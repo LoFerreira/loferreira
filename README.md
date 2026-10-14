@@ -1,38 +1,38 @@
-<h1>🙋🏼‍♂️ Olá, me chamo Leonardo.</h1>
+# Hi, I'm Leonardo 👋
 
-<h2>💥Seja bem vindo(a) ao meu perfil. Tenho 23 anos, sou formado em Ciências da Computação e estou cursando pós-graduação em Arquitetura de Software.</h2>
+Mobile & frontend developer from São Paulo, Brazil, building apps with **React Native**, **React** and **TypeScript** since 2021, and shipping **Flutter** in production on my own product.
 
-- 📖 Atualmente trabalho com desenvolvimento mobile no V-Thru, realizando melhorias de código, integrações com BE e implementação de novos recursos.
+- 📱 Currently working on the customer and driver apps at **V-Thru**, in a fully remote, international team
+- 🔍 I like the hard bugs: performance on low-end Android, state that drifts away from the server, issues that only show up in production
+- 🎨 I care about the details: smooth UI animations and interfaces that feel right
+- 🎓 BSc in Computer Science (UNICID) and postgraduate specialization in Software Architecture (FIAP)
 
-- 📝 Tenho conhecimento principalmente em Javascript, React.js, React-native, Typrescript, Firebase, Git, Gitlab, Clean Code e Agile Development.
+## 🚀 My Bills
 
-- 🧐 Também sou conhecedor de, além das linguagens citadas, Node.js, Express, Figma, UX e UI. <br> <br>
+A personal-finance app I build and run on my own, with real users in production.
 
+- **Android app** (Flutter): [Google Play](https://play.google.com/store/apps/details?id=com.leoferreira10.mybills)
+- **User area** (Flutter web): [mybills-21edd.web.app](https://mybills-21edd.web.app)
+- **Landing page** (React + Next.js): [my-bills-lime.vercel.app](https://my-bills-lime.vercel.app)
 
+I rewrote the original React Native (Expo) app in Flutter, starting from the data model: integer cents for money, atomic writes, Firestore security rules tested against the emulator, and 78 tests in the data layer. Then I migrated every existing user to the new structure with an idempotent, verified script.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loferreira&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+## 🛠️ Tech stack
 
+- **Mobile:** React Native · Expo / EAS · Flutter · Dart
+- **Web:** React · Next.js · TypeScript · JavaScript
+- **State & data:** Redux · BLoC · Firebase (Firestore, Realtime Database, Auth) · REST APIs
+- **Backend:** Node.js · Express · MongoDB · Docker · Kubernetes
+- **Quality & delivery:** Jest · Appium Inspector · Git · GitHub Actions · GitLab
 
-<h2>😉 Um pouco mais sobre mim:</h2>
+## 📂 Selected repositories
 
-⚖ Meus hobbies do cotidiano são estudar, gosto muito de conhecer e absorver as experiências sobre os muitos assuntos que a vida tem, assim como aproveitar 
-as mais variadas oportunidades que a mesma oferece. Pratico atividades físicas diariamente, afinal acredito que mente e corpo trabalham em conjuntos, 
-procuro ler livros sobre conhecimentos de diversas áreas e aprender um pouco mais no dia a dia. 
+- [**flutter-pizza**](https://github.com/LoFerreira/flutter-pizza): Flutter delivery app with Firebase Auth, Firestore, BLoC and the repository pattern
+- [**fiap-sub-1**](https://github.com/LoFerreira/fiap-sub-1): vehicle resale REST API in Node.js, Express and TypeScript, with Clean Architecture, Docker, Kubernetes and Jest
+- [**fiapsub2-core**](https://github.com/LoFerreira/fiapsub2-core) / [**fiapsub2-sales**](https://github.com/LoFerreira/fiapsub2-sales): the same platform split into two services (Firestore and MongoDB Atlas)
 
+## 📫 Contact
 
-Uma frase que me representa muito é do livro "**Os segredos da mente milionária**" do autor T. Harv Eker, que diz:
-
-
-**“A ação é a ponte entre o mundo interior e o mundo exterior.”**
-
-
-Acredito fortemente que todos somos os protagonistas de nossas próprias histórias, e o que difere alguém que pratica a tão famosa caminhada dos 
-10 mil passos de alguém que sonha com isso é, justamente, a ação de começar com um único passo e, assim, evoluir a cada dia.
-
-<h2>📱 Contato:</h2>
-
-<a href="www.linkedin.com/in/laf-leonardo-ferreira"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto: leonardo10sp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://web.whatsapp.com/send?phone=5511947873028"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> 
-<a href="https://www.instagram.com/lleonardof_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laf-leonardo-ferreira)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo10sp@gmail.com)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://laf-leonardo.vercel.app)
